@@ -33,8 +33,8 @@
   
 ### 📖 Studying
   
-1. JPA 활용하여 Backend 작업 ! 
+1. JPA / Spring Data JPA / JSP
   
-2. Vue.js를 사용하여 Frontend 작업 !
+2. Vue.js / Node.js
 
   
